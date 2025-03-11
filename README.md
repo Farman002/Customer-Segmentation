@@ -18,9 +18,6 @@ This Streamlit web app predicts customer segments based on shopping behavior usi
 
   # 📊 Customer Segments
 
-Segment Name
-
-Description
 
 🟢 Budget-Conscious Shoppers
 
